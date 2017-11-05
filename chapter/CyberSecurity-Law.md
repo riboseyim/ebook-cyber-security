@@ -11,8 +11,6 @@
 
 学术界普遍认为国家的关键基础设施，如银行，电信网络，电网等等，非常容易受到灾难性的网络攻击。然而，现有的学术文献并未充分阐述这一问题，因其将网络安全的范畴过度狭隘化。作者认为，与其仅仅将这些私有企业视为网络犯罪的潜在受害者或是网络冲突的潜在目标，我们更应从行政法的范畴来看待他们。在诸如环境法，反垄断法，产品责任法，公共卫生法等领域也面临相似的挑战。这些法律范畴不仅产出一个思考网络安全的更丰富的分析框架，也提出了可能的应对策略。
 
-<!-- more -->
-
 1. Environmental Law  环保法
 2. Antitrust Law  反托拉斯法 反垄断法
 3. Products liability Law  产品责任法
@@ -54,23 +52,3 @@ DUKE UNIVERSITY SCHOOL OF LAW，Durham，NC
 ## 三、实现安全性的目标必须强调可操作性
 
 >所有安全系统最终依赖于用户对安全重要性的认识，以及对其必然带来的限制的接受。安全取决于人：取决于系统用户对规则的遵守，取决于分析人员和监控人员在规则被破坏时能够发现。...... 糟糕的安全策略会导致用户不断地躲避检测，以便完成其工作，或者使用户不停地发脾气，这只会给你的防御人员带来额外的负担。——  Michael Collins《Network Security Through Data Analysis》
-
-## 扩展阅读: 网络安全《Cyber-Security Manual》
-- [Cyber-Security: 警惕 Wi-Fi 漏洞，争取安全上网](https://riboseyim.github.io/2017/10/29/CyberSecurity-WiFi/)
-- [Cyber-Security: Web应用安全：攻击、防护和检测](https://riboseyim.github.io/2017/08/31/CyberSecurity-Headers/)
-- [Cyber-Security: IPv6 & Security](http://riboseyim.github.io/2017/08/09/Protocol-IPv6/)
-- [Cyber-Security: OpenSSH 并不安全](http://riboseyim.github.io/2016/10/06/CyberSecurity-SSH/)
-- [Cyber-Security: Linux/XOR.DDoS 木马样本分析](http://riboseyim.github.io/2016/06/12/CyberSecurity-Trojan/)
-- [浅谈基于数据分析的网络态势感知](http://riboseyim.github.io/2017/07/14/Network-sFlow/)
-- [Packet Capturing:关于网络数据包的捕获、过滤和分析](http://riboseyim.github.io/2017/06/16/Network-Pcap/)
-- [新一代Ntopng网络流量监控—可视化和架构分析](http://riboseyim.github.io/2016/04/26/Network-Ntopng/)
-- [Cyber-Security: 事与愿违的后门程序 | Economist](http://www.jianshu.com/p/670c4d2bb419)
-- [Cyber-Security: 美国网络安全立法策略](https://riboseyim.github.io/2016/10/07/CyberSecurity/)
-- [Cyber-Security: 香港警务处拟增设网络安全与科技罪案总警司](http://riboseyim.github.io/2017/04/09/CyberSecurity-CSTCB/)
-
-## 参考文献
-- [电子书：《Manager》](https://www.gitbook.com/book/riboseyim/manager/details)
-- [池建强&双乐：DDoS，网络安全世界里的暗黑杀手](https://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&amp;mid=402006332&amp;idx=1&amp;sn=e47215745825a8bc223ab263db4ae822&amp;scene=1&amp;srcid=0127TcRfvGwbqCgfKQTzFxKH#rd)
-- [全网统一账户实践(OpenLDAP) |jaseywang.me ](http://jaseywang.me/2017/03/04/%e5%85%a8%e7%bd%91%e7%bb%9f%e4%b8%80%e8%b4%a6%e6%88%b7%e5%ae%9e%e8%b7%b5/)
-
-- [Source:https://riboseyim.github.io/tags/Cyber-Security/](https://riboseyim.github.io/tags/Cyber-Security/)

@@ -151,19 +151,3 @@ ssh -Q kex          # 支持的密钥交换算法
 ssh -G  user@somehost.example.com
 ~~~
 将列出所有的配置选项，包括被选用的编码方式，消息验证码，公钥算法，密钥算法参数的值。
-
-## 扩展阅读: 网络安全专题合辑《Cyber-Security Manual》
-- [Cyber-Security: 警惕 Wi-Fi 漏洞，争取安全上网](https://riboseyim.github.io/2017/10/29/CyberSecurity-WiFi/)
-- [Cyber-Security: Web应用安全：攻击、防护和检测](https://riboseyim.github.io/2017/08/31/CyberSecurity-Headers/)
-- [Cyber-Security: IPv6 & Security](http://riboseyim.github.io/2017/08/09/Protocol-IPv6/)
-- [Cyber-Security: OpenSSH 并不安全](http://riboseyim.github.io/2016/10/06/CyberSecurity-SSH/)
-- [Cyber-Security: Linux/XOR.DDoS 木马样本分析](http://riboseyim.github.io/2016/06/12/CyberSecurity-Trojan/)
-- [浅谈基于数据分析的网络态势感知](http://riboseyim.github.io/2017/07/14/Network-sFlow/)
-- [Packet Capturing:关于网络数据包的捕获、过滤和分析](http://riboseyim.github.io/2017/06/16/Network-Pcap/)
-- [新一代Ntopng网络流量监控—可视化和架构分析](http://riboseyim.github.io/2016/04/26/Network-Ntopng/)
-- [Cyber-Security: 事与愿违的后门程序 | Economist](http://www.jianshu.com/p/670c4d2bb419)
-- [Cyber-Security: 美国网络安全立法策略](https://riboseyim.github.io/2016/10/07/CyberSecurity/)
-- [Cyber-Security: 香港警务处拟增设网络安全与科技罪案总警司](http://riboseyim.github.io/2017/04/09/CyberSecurity-CSTCB/)
-
-## 参考文献
-- [赵亚：令人作呕的OpenSSL](http://blog.csdn.net/dog250/article/details/24552307)

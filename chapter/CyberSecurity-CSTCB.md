@@ -128,7 +128,7 @@
 
 4. 2017年：5月12日，立法会财务委员会，未完成审议，延期审议。
 
-## 扩展阅读: 网络安全专题合辑《Cyber-Security Manual》
+## 扩展阅读: 网络安全《Cyber-Security Manual》
 - [Cyber-Security: 警惕 Wi-Fi 漏洞，争取安全上网](https://riboseyim.github.io/2017/10/29/CyberSecurity-WiFi/)
 - [Cyber-Security: Web应用安全：攻击、防护和检测](https://riboseyim.github.io/2017/08/31/CyberSecurity-Headers/)
 - [Cyber-Security: IPv6 & Security](http://riboseyim.github.io/2017/08/09/Protocol-IPv6/)

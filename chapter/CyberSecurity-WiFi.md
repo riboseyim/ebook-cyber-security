@@ -71,7 +71,7 @@ DNS 欺骗的解决方案称为 DNSSEC （Domain Name System Security Extension
 
 并非所有的设备都需要安装 VPN，但您每天使用的、涉及访问个人私人信息网站的—— 尤其是访问您的金钱和身份信息（政府、银行网站、社交网络等）的任何东西都必须得到安全保护。VPN 不是应对所有网络层漏洞的灵丹妙药，但它肯定会有所帮助，当你在机场使用不安全的 Wi-Fi 卡，或者下次类似 KRACK 漏洞被发现的时候。
 
-## 扩展阅读: 网络安全专题合辑《Cyber-Security Manual》
+## 扩展阅读: 网络安全《Cyber-Security Manual》
 - [Cyber-Security: 警惕 Wi-Fi 漏洞，争取安全上网](https://riboseyim.github.io/2017/10/29/CyberSecurity-WiFi/)
 - [Cyber-Security: Web应用安全：攻击、防护和检测](https://riboseyim.github.io/2017/08/31/CyberSecurity-Headers/)
 - [Cyber-Security: IPv6 & Security](http://riboseyim.github.io/2017/08/09/Protocol-IPv6/)
@@ -83,7 +83,3 @@ DNS 欺骗的解决方案称为 DNSSEC （Domain Name System Security Extension
 - [Cyber-Security: 事与愿违的后门程序 | Economist](http://www.jianshu.com/p/670c4d2bb419)
 - [Cyber-Security: 美国网络安全立法策略](https://riboseyim.github.io/2016/10/07/CyberSecurity/)
 - [Cyber-Security: 香港警务处拟增设网络安全与科技罪案总警司](http://riboseyim.github.io/2017/04/09/CyberSecurity-CSTCB/)
-
-## 参考文献
-- [BGP hijacking，BGP 劫持](https://en.wikipedia.org/wiki/BGP_hijacking)
-- [“Let’s Encrypt” 项目,Let’s Encrypt is a free, automated, and open Certificate Authority.](https://letsencrypt.org/)
