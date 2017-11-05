@@ -16,7 +16,7 @@
 * [Chapter 2: 网络安全技术]()
 - [警惕 Wi-Fi 漏洞，争取安全上网](chapter/CyberSecurity-WiFi.md)
 - [Web应用安全：攻击、防护和检测](chapter/CyberSecurity-Headers.md)
-- [IPv6 & Security](chapter/Protocol-IPv6.md)
+- [IPv6 网络协议与网络安全](chapter/Protocol-IPv6.md)
 - [OpenSSH 并不安全](chapter/CyberSecurity-SSH.md)
 - [Linux/XOR.DDoS 木马样本分析](chapter/CyberSecurity-Trojan.md)
 * [Chapter 3: 网络安全治理]()
