@@ -1,4 +1,4 @@
-# Cyber-Security:警惕Wi-Fi漏洞,争取安全上网
+# 警惕Wi-Fi漏洞,争取安全上网
 
 - 1、不可信任的基础设施：Wi-Fi
 - 2、安全通信协议：HTTPS

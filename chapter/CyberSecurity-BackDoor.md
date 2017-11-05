@@ -1,4 +1,4 @@
-# Cyber-Security:事与愿违的后门程序
+# 事与愿违的后门程序
 
 - 原文：[Internet security | When back doors backfire |Jan 2nd 2016](#)
 

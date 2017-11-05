@@ -1,1 +1,0 @@
-- [《黑客与画家：硅谷创业之父Paul Graham文集》](http://www.ruanyifeng.com/docs/pg/)

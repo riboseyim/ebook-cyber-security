@@ -1,4 +1,4 @@
-# Cyber-Security:Linux/XOR.DDoS 样本分析
+# Linux/XOR.DDoS 木马样本分析
 
 >在与特洛伊的战争中，我们从未取得优势。— 弗拉基米.耶维奇.严
 

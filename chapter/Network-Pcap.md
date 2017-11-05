@@ -1,4 +1,4 @@
-# 关于网络数据包的捕获、过滤和分析（Packet Capturing）
+# 网络数据包的捕获、过滤和分析
 
 - Packet Capturing Overview
 - What is Packet Capturing
