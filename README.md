@@ -1,4 +1,4 @@
-# Cyber-Security Manual
+# The Cyber-Security Master
 
 ## 作者：[RiboseYim](https://riboseyim.github.io)
 

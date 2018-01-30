@@ -5,7 +5,7 @@
 - [基于数据分析的网络态势感知](chapter/Network-sFlow.md)
 - [网络数据包的捕获、过滤和分析](chapter/Network-Pcap.md)
 * [Chapter 2: 网络安全技术]()
-- [警惕 Wi-Fi 漏洞，争取安全上网](chapter/CyberSecurity-WiFi.md)
+- [警惕 Wi-Fi 漏洞，加强上网安全](chapter/CyberSecurity-WiFi.md)
 - [Web应用安全：攻击、防护和检测](chapter/CyberSecurity-Headers.md)
 - [IPv6 网络协议与网络安全](chapter/Protocol-IPv6.md)
 - [OpenSSH 并不安全](chapter/CyberSecurity-SSH.md)
