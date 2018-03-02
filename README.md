@@ -1,5 +1,7 @@
 # The Cyber-Security Master
 
+![](http://p11slcnom.bkt.clouddn.com/banner-CSM-201803.png)
+
 ## 作者：[RiboseYim](https://riboseyim.github.io)
 
 [Linkedin](https://www.linkedin.com/in/riboseyim/)
@@ -25,13 +27,14 @@
 - [香港警务处网络安全与科技罪案调查科](chapter/CyberSecurity-CSTCB.md)
 
 ## Community
-更多精彩内容请扫码关注公众号,[RiboseYim's Blog:riboseyim.github.io](https://riboseyim.github.io?product=ebook&id=linuxperfmaster)
+
+更多精彩内容请扫码关注公众号,[RiboseYim's Blog:riboseyim.github.io](https://riboseyim.github.io?product=ebook&id=cyber)
 ![微信公众号@睿哥杂货铺](http://o8m8ngokc.bkt.clouddn.com/ID_RiboseYim_201706.png)
 
-### 读者交流
 - **读者QQ群：338272982**
 - [简书专题：《系统运维专家》](http://www.jianshu.com/c/9a817d8a67ea)
 - [小密圈:@系统运维专家](http://t.xiaomiquan.com/U7qn6Qv)
+
 ![小密圈@系统运维专家](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_ops_small.png)
 
 ### Latest Version
