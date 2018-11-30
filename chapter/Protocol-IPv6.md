@@ -15,7 +15,7 @@ IPv6(Internet Protocol version 6)是互联网协议的最新版本，用于分�
 #### IPv6 报文包格式
 定义：[RFC 1883](https://tools.ietf.org/html/rfc1883)中定义的原始版本，[RFC 2460](https://tools.ietf.org/html/rfc2460)中描述的现在提议的标准版本。
 
-![](http://omb2onfvy.bkt.clouddn.com/Network_IPv6_Packet.png)
+![](http://riboseyim-qiniu.riboseyim.com/Network_IPv6_Packet.png)
 
 #### IPv6地址分类
 - 单播地址（unicast）：单播地址标示一个网络接口，协议会把送往地址的数据包送往给其接口。单播地址包括可聚类的全球单播地址、链路本地地址等。
@@ -33,9 +33,9 @@ IPsec（网际网络安全协议，Internet Protocol Security，[RFC 4301](https
 
 在传输模式下，IPsec在IP报头和高层协议之间插入一个报头，IP报头与原始IP报头相同，只是IP协议字段被改为ESP或者AH，并重新计算IP报头的校验和。IPsec假定IP端点是可达的，源端头不会修改IP报头中的目标IP地址。IPsec 工作在网络层。其它加密协议如 TLS/SSL 和 SSH，工作在传输层之上，是针对具体应用的。
 
-![](http://omb2onfvy.bkt.clouddn.com/Network_Procotol_Security.png)
+![](http://riboseyim-qiniu.riboseyim.com/Network_Procotol_Security.png)
 
-![](http://omb2onfvy.bkt.clouddn.com/Network_IPsec_PacketHeader.png)
+![](http://riboseyim-qiniu.riboseyim.com/Network_IPsec_PacketHeader.png)
 
 #### NAT = Security ?
 

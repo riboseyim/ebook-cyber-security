@@ -16,7 +16,7 @@
 3. Products liability Law  产品责任法
 4. Public Health Law 公共卫生法
 
-![](http://o8m8ngokc.bkt.clouddn.com/theme_law_cybersecurity.png)
+![](http://riboseyim-qiniu.riboseyim.com/theme_law_cybersecurity.png)
 
 a DDOS attack, and the company might notify other firms to use the same technique. Finally, an industry might agree to establish a uniform set of cyber-security standards, along with monitoring and enforcement mechanisms to ensure that all members are implementing the agreed-upon measures. They might, in other words, form something like a cartel.
 
